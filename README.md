@@ -1,2 +1,2 @@
 # Imagio
-Image Processing Software..
+Image Processing Software.
