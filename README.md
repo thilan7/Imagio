@@ -1,2 +1,0 @@
-# Imagio
-Image Processing Software.
